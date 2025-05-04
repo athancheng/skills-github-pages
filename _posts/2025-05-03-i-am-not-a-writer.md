@@ -3,7 +3,8 @@ title: "I Am Not a Writer"
 date: 2025-05-03
 ---
 
-# Until I Write.
+# I Am Not a Writer
+## Until I Write.
 
 That's the idea. Some time during college, I resolved never to claim an identity until I can actively, tangibly live it. If I want to be a writer, then I can't be simply thinking about it. I have to *do* it.
 
